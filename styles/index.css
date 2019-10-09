@@ -1,0 +1,32 @@
+body
+{
+	font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+span{
+    color: red;
+}
+
+.quoteContainer{
+    width: 70%;
+    margin: 0;
+    margin-left: 5%;
+}
+
+.quoteDeadpool{
+    font-size: 3vw;
+}
+
+.deadpoolLicorne1{
+    width: 25%;
+    margin-top: -10%;
+}
+
+.unicornGif{
+    width: 30%;
+    margin: 0% 10%;
+}
