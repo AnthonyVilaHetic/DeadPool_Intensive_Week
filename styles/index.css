@@ -1,6 +1,4 @@
-body
-{
-	font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+body{
 	margin: 0;
 	padding: 0;
     max-width: 100%;
@@ -19,19 +17,23 @@ span{
 }
 
 .quoteDeadpool{
-    font-size: 3vw;
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    font-size: 2.5vw;
 }
 
 .deadpoolLicorne1{
     width: 30%;
     position: absolute;
     right: 1%;
-    top: 10%;
+    top: 100px;
 }
 
 .deadpoolLicorne2{
-    width: 59.7%;
+    width: 59.6%;
+    position: absolute;
     top: 30%;
+    right: 2% ;
 }
 
 .deadpoolLicorne3{
@@ -41,7 +43,13 @@ span{
     top: 10%;
 }
 
+.deadpoolLicorne4{
+    width: 45%;
+    position: absolute;
+    right: -5%;
+    top: 0%;
+}
+
 .unicornGif{
-    width: 30%;
-    margin-left: 10% ;
+    width: 35%;
 }
