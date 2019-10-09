@@ -1,0 +1,47 @@
+body
+{
+	font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+    max-width: 100%;
+    background-color: #fcfdfc;
+}
+
+span{
+    color: red;
+}
+
+.quoteContainer{
+    width: 70%;
+    margin: 0;
+    margin-left: 5%;
+    text-transform: uppercase;
+}
+
+.quoteDeadpool{
+    font-size: 3vw;
+}
+
+.deadpoolLicorne1{
+    width: 30%;
+    position: absolute;
+    right: 1%;
+    top: 10%;
+}
+
+.deadpoolLicorne2{
+    width: 59.7%;
+    top: 30%;
+}
+
+.deadpoolLicorne3{
+    width: 33%;
+    position: absolute;
+    right: 7%;
+    top: 10%;
+}
+
+.unicornGif{
+    width: 30%;
+    margin-left: 10% ;
+}
