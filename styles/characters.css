@@ -75,3 +75,18 @@
 .first{
     padding-top: 80px;;
 }
+
+.btn{
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 30px 0;
+    border: 2px solid #ff7675;
+    padding: 14px 60px;
+    text-transform: uppercase;
+    background-color: rgb(187, 0, 0);
+}
+
+.btn:hover{
+    background-color: rgb(187, 0, 0);
+}
