@@ -78,8 +78,8 @@ span{
                blinkTextCursor 500ms steps(100) infinite normal;
   }
 .anim-typewriter4{
-    animation: typewriter 40s steps(45) 3.5s 1 normal both,
-               blinkTextCursor 500ms steps(45) infinite normal;
+    animation: typewriter 40s steps(40) 3.5s 1 normal both,
+               blinkTextCursor 500ms steps(40) infinite normal;
   }
   @keyframes typewriter{
     from{width: 0;}
