@@ -1,0 +1,77 @@
+.characSubContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.characContainer .h1container{
+    margin: 80px auto 0px auto;
+    width: 100%;
+}
+
+.characContainer h1{
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2.5px;
+    padding-top: 50px;
+}
+
+.sub1{
+    background-image:url(../images/fond_deadpool.jpg);
+}
+
+.sub2{
+    padding-top: 130px;
+    background-image:url(../images/deadpool_sang.jpg);
+}
+
+.sub3{
+    padding-top: 130px;
+    background-image:url(../images/metal4.jpg);
+}
+
+.imgAndPcontainer{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 3vh;
+    padding-bottom: 130px;
+}
+
+.imgAndPcontainerReverse{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    font-size: 3vh;
+    padding-bottom: 130px;
+}
+
+.imgAndPcontainer img, .imgAndPcontainerReverse img{
+    width: 300px;
+    height: 250px;
+    border-radius: 40%;
+}
+
+.imgAndPcontainer img{
+    margin: 0 50px 0 100px;
+}
+
+.imgAndPcontainerReverse img{
+    margin: 0 100px 0 50px;
+}
+
+.imgAndPcontainer p{
+    margin: 0 100px 0 50px;
+}
+
+.imgAndPcontainerReverse p{
+    margin: 0 50px 0 100px;
+}
+
+.first{
+    padding-top: 80px;;
+}
