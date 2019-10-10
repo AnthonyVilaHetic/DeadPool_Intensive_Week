@@ -69,31 +69,19 @@ span{
     animation: typewriter 3s steps(100) 0s 1 normal both,
                blinkTextCursor 500ms steps(100) infinite normal;
   }
-@keyframes typewriter{
-    from{width: 0;}
-    to{width: 100%;}
-}
 .anim-typewriter2{
     animation: typewriter 3s steps(100) 1.7s 1 normal both,
                blinkTextCursor 500ms steps(100) infinite normal;
   }
-@keyframes typewriter{
-    from{width: 0;}
-    to{width: 100%;}
-}
 .anim-typewriter3{
     animation: typewriter 3s steps(100) 3s 1 normal both,
                blinkTextCursor 500ms steps(100) infinite normal;
   }
-@keyframes typewriter{
-    from{width: 0;}
-    to{width: 100%;}
-}
 .anim-typewriter4{
     animation: typewriter 40s steps(45) 3.5s 1 normal both,
                blinkTextCursor 500ms steps(45) infinite normal;
   }
-@keyframes typewriter{
+  @keyframes typewriter{
     from{width: 0;}
     to{width: 100%;}
 }
